@@ -1396,12 +1396,13 @@ Build-your-own (agent-builing frameworks and platforms)
 - [LinkedIn](https://www.linkedin.com/company/flowiseai/)
 
 </details>
-## [Forge](https://github.com/antinomyhq/forge)
+
+## [Forge](https://forgecode.dev)
 Terminal-based AI pair programmer for code generation and editing
 
 <details>
 
-![Image](https://forgecode.dev/favicon.ico)
+![Image](https://camo.githubusercontent.com/5f0a353cfb38de164eb86f2918a30585f5267074a91f3a1f4cde6d0139409c74/68747470733a2f2f6173736574732e616e74696e6f6d792e61692f696d616765732f666f7267655f64656d6f5f32782e676966)
 
 ### Category
 Coding
