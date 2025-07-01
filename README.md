@@ -1396,6 +1396,28 @@ Build-your-own (agent-builing frameworks and platforms)
 - [LinkedIn](https://www.linkedin.com/company/flowiseai/)
 
 </details>
+## [Forge](https://github.com/antinomyhq/forge)
+Terminal-based AI pair programmer for code generation and editing
+
+<details>
+
+![Image](https://forgecode.dev/favicon.ico)
+
+### Category
+Coding
+
+### Description
+- Forge is a terminal-based AI pair programmer that assists developers with code generation and editing
+- Provides an interactive coding experience with AI assistance directly in the terminal
+- Features intelligent code suggestions, automated editing, and seamless integration with development workflows
+- Supports multiple programming languages and frameworks
+- Designed for developers who prefer command-line tools and terminal-based workflows
+
+### Links
+- [Website](https://forgecode.dev/)
+- [GitHub](https://github.com/antinomyhq/forge)
+
+</details>
 
 
 ## [Friday](https://github.com/amirrezasalimi/friday/)
